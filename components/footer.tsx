@@ -101,7 +101,7 @@ export function Footer() {
         <div className="border-t border-slate-800 pt-6 sm:pt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between space-y-4 sm:space-y-0">
             <p className="text-slate-400 text-sm sm:text-base text-center sm:text-left">
-              &copy; 2024 FinanceFlow. All rights reserved.
+              &copy; 2025 FinanceFlow. All rights reserved.
             </p>
             <div className="flex items-center space-x-2">
               <span className="text-slate-400 text-sm">Developed by</span>
